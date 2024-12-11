@@ -2,7 +2,7 @@
 
 With the rise of foundation models in deep learning, it is common practice in many applications to finetune a giant model pretrained on an enormous corpus of data to the specific task at hand. Motivated by this observation, in this research project we set out to investigate which properties of the final pretraining configurations can lead to strong finetuning performance.
 
-This is joint work with Dario Filatrella, Rocco Giampetruzzi and Rolf Minardi. The file `report.pdf` contains a detailed description of our methods and findings. Inside `figures/` there is a full account of the most important plots we generated, while `checkpoints/` and `robustness_metrics/` contain what's necessary to reproduce our results.
+This is joint work with Dario Filatrella, Rocco Giampetruzzi and Rolf Minardi. The file `report.pdf` contains a detailed description of our methods and findings. Inside `figures/` there is a full account of the most important plots we generated, while `pretrained\ models/` and `robustness\ metrics/` contain what's necessary to reproduce our results.
 
 ## Experimental setting
 
